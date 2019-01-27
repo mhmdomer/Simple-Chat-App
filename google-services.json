@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "899889949312",
+    "firebase_url": "https://messaging-app-5789a.firebaseio.com",
+    "project_id": "messaging-app-5789a",
+    "storage_bucket": "messaging-app-5789a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899889949312:android:1be0d76954c6ff4a",
+        "android_client_info": {
+          "package_name": "com.vampire.firebase.example.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899889949312-4odhdp8iqppfg324o3h6amkip2j4078h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vampire.firebase.example.friendlychat",
+            "certificate_hash": "af97a880b66aa94984f53d7671b2db7e8a7ba721"
+          }
+        },
+        {
+          "client_id": "899889949312-s1v2tpdfvifatno323vk0jr9ebfeuf9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRHG-7vkGzQxijhpujgFgsVzf5VlSL8qI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899889949312-s1v2tpdfvifatno323vk0jr9ebfeuf9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
